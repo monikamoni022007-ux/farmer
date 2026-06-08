@@ -1,0 +1,8 @@
+{
+  "name": "FarmSense: Precision Agriculture Management System",
+  "description": "A professional agricultural SaaS platform for direct sensor monitoring, fields and crops management, and intelligent irrigation recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
